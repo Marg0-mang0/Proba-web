@@ -1,0 +1,17 @@
+.head{
+    font-size: 70px;
+    width: 100%;
+}
+.paragraf{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px;
+    height: 100px;
+} 
+.fon{
+    transition: easy all 3;
+}
+.head{
+    height: 500px;
+}
